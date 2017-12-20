@@ -1,0 +1,10 @@
+<?php
+    $var1="server";
+    $$var1="localhost";
+    $var2="user";
+    $$var2="root";
+    $var3="password";
+    $$var3="";
+    $var4="baseDatos";
+    $$var4="transmedia";
+?>
